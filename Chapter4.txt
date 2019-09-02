@@ -1,0 +1,1 @@
+To maneuver branch objects to maintain main code structure / foundation is logged.
